@@ -1,0 +1,8 @@
+
+beautifulsoup4==4.12.2
+numpy==1.24.3
+pandas==2.1.0
+requests==2.23.0
+spacy==3.6.1
+virtualenv==20.23.0
+
